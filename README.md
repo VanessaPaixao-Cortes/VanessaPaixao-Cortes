@@ -1,8 +1,24 @@
-### Hi there 👋
+## Hey, Vanessa here!
 
 <div align="center">
 <img src="https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/assets/9844312/8fa80c4c-c1b9-4b63-801b-a1a5a8be5afd" width="700px" />
 </div>
+
+
+<h1>Welcome!</h1> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessapaixaocortes)](https://www.linkedin.com/in/vanessapaixaocortes/)
+
+## :computer: Technologies I Love
+* Frontend and Backend Web Development
+* User Experience (UX)
+
+
+## Programming Languages
+ 
+ 
+ ## Technologies I Use
+ 
 
 <!--
 **VanessaPaixao-Cortes/VanessaPaixao-Cortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
