@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/issues/1#issuecomment-1575687139" width="700px" />
 </div>
 
 <!--
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+
 
 
 
