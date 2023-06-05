@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/issues/1#issuecomment-1575687139" width="700px" />
+<img src="https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/assets/9844312/8fa80c4c-c1b9-4b63-801b-a1a5a8be5afd" width="700px" />
 </div>
 
 <!--
