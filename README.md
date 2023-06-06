@@ -7,7 +7,7 @@
 
 <h1>Welcome!</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessapaixaocortes)](https://www.linkedin.com/in/vanessapaixaocortes/)
+[![Linkedin Badge](https://img.shields.io/badge/-VanessaPaixaoCortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessapaixaocortes)](https://www.linkedin.com/in/vanessapaixaocortes/)
 
 ## :computer: Technologies I Love
 * Frontend and Backend Web Development
@@ -15,10 +15,10 @@
 
 
 ## Programming Languages
- 
+ <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/php.svg' width='30'/> <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/python2.png' width='30'/> <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/sql.svg' width='30'/>
  
  ## Technologies I Use
- 
+ <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/bootstrap.svg' width='30'/>  <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/VanessaPaixao-Cortes/VanessaPaixao-Cortes/blob/main/images/html.svg' width='30'/>
 
 <!--
 **VanessaPaixao-Cortes/VanessaPaixao-Cortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
